@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityFlags="flagDefault"
+    android:canPerformGestures="true"
+    android:canRetrieveWindowContent="true"
+    android:description="Injeta os arrastos do aimbot no Free Fire"
+    android:notificationTimeout="30"/>
